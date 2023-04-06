@@ -2,6 +2,16 @@
 
 3D rendering engine from scratch written on JS. Obviously it can't compete with real advanced engines, but it was really interesting and informative to learn and understand all the mathematical formulas and principles behind it.
 
+## Table of Contents
+- [Installation](#installation)
+- [Code Overview](#code-overview)
+    - [Constructor](#constructor)
+    - [Environmental Functions](#environmental-functions)
+    - [Drawing Functions](#drawing-functions)
+    - [Camera Functions](#camera-functions)
+    - [Scene Functions](#scene-functions)
+    - [Calculation Functions](#calculation-functions)
+
 ## Installation
 
 To use the 3D rendering engine, simply clone the repository
